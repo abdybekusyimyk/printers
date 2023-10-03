@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/check/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/windows/flutter/ephemeral/.plugin_symlinks/charset_converter/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram/build" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clipcontainer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/clipcontainer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clipcontainer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/check/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/check/build" />
+      <excludeFolder url="file://$MODULE_DIR$/check/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/check2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/check2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/check2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/qr1/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/build" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/arabic/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
